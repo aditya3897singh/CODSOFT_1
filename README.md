@@ -21,7 +21,7 @@ It generates random passwords based on the user's preferences, allowing them to 
 
 ### 1. Clone the Repository
 ```bash
-git clone [<your-repository-url>](https://github.com/aditya3897singh/CODSOFT_1.git)
+git clone (https://github.com/aditya3897singh/CODSOFT_1.git)
 ```
 
 ### 2. Navigate to the Project Directory
