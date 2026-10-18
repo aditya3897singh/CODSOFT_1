@@ -31,7 +31,7 @@ cd CODSOFT_1
 
 ### 3. Run the Python Program
 ```bash
-python password_generator.py
+python passwordgenerator.py
 ```
 
 ## 💻 Example Output
